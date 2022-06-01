@@ -12,7 +12,7 @@ const Projects = () => {
                     <div className='border-b w-36 border-stone-900'></div>
                 </div>
             </div>
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'>
+            <div className='grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-8'>
                 <div class="card w-96 bg-base-100 shadow-xl mx-auto">
                     <figure><img src={website1} alt="Shoes" /></figure>
                     <div class="card-body">

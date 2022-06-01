@@ -1,10 +1,11 @@
 import React from 'react';
 import About from '../About/About';
 import Banner from '../Banner/Banner';
-import Conatct from '../Contact/Contact';
+import Contact from '../Contact/Contact';
 import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
 import Projects from '../Projects/Projects';
+import Skill from '../Skill/Skill';
 
 const Home = () => {
     return (
@@ -12,8 +13,9 @@ const Home = () => {
             <Navbar></Navbar>
             <Banner></Banner>
             <About></About>
+            <Skill></Skill>
             <Projects></Projects>
-            <Conatct></Conatct>
+            <Contact></Contact>
             <Footer></Footer>
         </div>
     );
