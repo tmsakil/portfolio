@@ -13,25 +13,25 @@ const Skill = () => {
                     <div className='border-b w-36 border-stone-900'></div>
                 </div>
             </div>
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3'>
+            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-3'>
                 <div className='mx-auto'>
                     <h2 className='font-bold text-xl mt-4 mb-2'>Front End (Expertise)</h2>
                     <div className='flex items-center'>
-                        <p>HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React</p>
+                        <p>HTML5 | CSS3 | Bootstrap | Tailwind CSS | JavaScript | React</p>
                     </div>
                 </div>
 
                 <div className='mx-auto'>
                     <h2 className='font-bold text-xl mt-4 mb-2'>Back End (Familiar)</h2>
                     <div className='flex items-center'>
-                        <p>Node js, Express js, MongoDB, Rest Api</p>
+                        <p>Node js | Express js | MongoDB | Rest Api</p>
                     </div>
                 </div>
 
                 <div className='mx-auto'>
                     <h2 className='font-bold text-xl mt-4 mb-2'>Tools</h2>
                     <div className='flex items-center'>
-                        <p>Github, Heroku, Netlify, Firebase, Postman, VS Code</p>
+                        <p>Github | Heroku | Netlify | Firebase | Postman | VS Code</p>
                     </div>
 
                 </div>
