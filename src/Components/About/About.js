@@ -4,8 +4,8 @@ import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
 const About = () => {
     return (
-        <div id='about'>
-            <div className='px-10 lg:px-24 lg:mt-20 my-10' id='about'>
+        <div>
+            <div className='px-10 lg:px-24 lg:mt-20 my-10'>
                 <div>
                     <div class="hero ">
                         <div class="grid grid-cols-1 lg:grid-cols-2">
